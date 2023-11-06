@@ -6,6 +6,6 @@ http://server-webap-qj3ujsoigdyx-165128071.us-east-1.elb.amazonaws.com/
 # Update
 ./update.sh network network.yaml network-params.json
 ./update.sh server udagram.yml udagram-parameters.json
-#Delete
+# Delete
 ./delete.sh network
 ./delete.sh server
